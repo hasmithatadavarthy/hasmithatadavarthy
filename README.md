@@ -67,11 +67,15 @@ Passionate Student | Technology Enthusiast | Future Software Developer
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hasmitha-tadavarthy-898215345/" target="_blank">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:tadavarthyhasmitha@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </div>
@@ -82,9 +86,9 @@ Passionate Student | Technology Enthusiast | Future Software Developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasmithatadavarthy&show_icons=true&theme=tokyonight" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmithatadavarthy&theme=tokyonight" height="165"/>
 
 </div>
 
@@ -94,7 +98,7 @@ Passionate Student | Technology Enthusiast | Future Software Developer
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hasmithatadavarthy&theme=tokyonight&row=1&column=6"/>
 
 </div>
 
@@ -104,11 +108,11 @@ Passionate Student | Technology Enthusiast | Future Software Developer
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasmithatadavarthy/hasmithatadavarthy/output/pacman-contribution-graph-dark.svg">
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasmithatadavarthy/hasmithatadavarthy/output/pacman-contribution-graph.svg">
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hasmithatadavarthy/hasmithatadavarthy/output/pacman-contribution-graph.svg">
 
 </picture>
 
