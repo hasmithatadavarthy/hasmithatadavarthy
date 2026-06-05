@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasmitha Tadavarthy</h1>
 
 <h3 align="center">
-AI & IoT Enthusiast | Embedded Systems Learner | Passionate About Technology
+AIML & IoT Enthusiast | Embedded Systems Learner | Passionate About Technology
 </h3>
 
 ---
